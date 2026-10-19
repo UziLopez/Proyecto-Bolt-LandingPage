@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, sans-serif;
+  line-height: 1.6;
+  color: #3a281a;
+  background-color: #faf6ee;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+}
+
+#app {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.font-display {
+  font-family: "Playfair Display", Georgia, serif;
+}
+
+::selection {
+  background: #9d3340;
+  color: #faf6ee;
+}
