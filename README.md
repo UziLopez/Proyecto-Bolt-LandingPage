@@ -4,6 +4,8 @@ This template should help get you started developing with Vue 3 and TypeScript i
 
 Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
 
-###
+<div align="center">
+  
+  <img width="800" height="394" alt="Grabación de pantalla 2026-10-19 175722" src="https://github.com/user-attachments/assets/efb36f18-7aa6-4cff-b63e-307f7863103f" />
 
-<img width="800" height="384" alt="Proyecto-Bolt" src="https://github.com/user-attachments/assets/ddc97007-f546-481a-9ffc-9e4ebc7d6169" />
+</div>
